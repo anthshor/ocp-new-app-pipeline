@@ -1,4 +1,4 @@
-## Simple example - strategy = pipeline
+## New App, Strategy = pipeline
 
 ```
 oc new-app -f myPipeline.yaml  
