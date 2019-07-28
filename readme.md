@@ -1,5 +1,8 @@
 ## Simple example - strategy = pipeline
+
+```
 oc new-app -f myPipeline.yaml  
+```
 
 Creates objects and Jenkins Pod
 
